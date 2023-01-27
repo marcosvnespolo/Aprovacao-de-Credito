@@ -3,6 +3,9 @@
 ## Dados
  O dataset utilizado no projeto pode ser encontrado dentre os arquivos do repositório, ou consultando o link a seguir: http://archive.ics.uci.edu/ml/datasets/credit+approval
  
+ ## Objetivo
+ Criar um preditor automático para a aprovação de cartões de crédito através de técnicas de aprendizado de máquinas.
+ 
  ## Etapas do Projeto
 
 - [x] Iniciarei o projeto a través da importação e visualização do dataset.
